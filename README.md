@@ -1,1 +1,1 @@
-# numerical-analysis-with-c-program
+# Numerical Analysis with C Program
